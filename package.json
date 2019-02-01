@@ -1,0 +1,22 @@
+{
+  "name": "nodefirebasedatabase",
+  "version": "1.0.0",
+  "description": "Node Backend to communicate with Firebase realtime database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianVarela/NodeFirebaseDatabase.git"
+  },
+  "author": "Fabian Varela Bonett",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FabianVarela/NodeFirebaseDatabase/issues"
+  },
+  "homepage": "https://github.com/FabianVarela/NodeFirebaseDatabase#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
